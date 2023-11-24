@@ -1,0 +1,1 @@
+# TypoDetector_OpenVINO
